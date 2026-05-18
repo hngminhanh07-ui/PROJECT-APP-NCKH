@@ -8,7 +8,7 @@ st.set_page_config(page_title="Dự Đoán GPA", page_icon="🎓", layout="cente
 st.markdown("""
 <style>
     .stApp { background-color: #f0f7ff; }
-    .title { text-align: center; font-size: 2000px; font-weight: bold; color: #1565C0; }
+    .title { text-align: center; font-size: 200px; font-weight: bold; color: #1565C0; }
     .result-box { background-color: #E3F2FD; padding: 30px; border-radius: 20px; text-align: center; }
     .gpa-text { color: #0D47A1; font-size: 55px; font-weight: bold; }
     div.stButton > button { background-color: #1E88E5; color: white; font-size: 20px; font-weight: bold; width: 100%; }
